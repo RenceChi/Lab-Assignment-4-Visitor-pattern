@@ -1,6 +1,5 @@
-<div class="problem-statement">
+<div class="Problem-statement">
     <h1>E-Commerce Shipping Calculator</h1>
-
     <h2>Scenario</h2>
     <p>
         You are a software developer working on an e-commerce platform that sells various types of furniture (chairs, tables, sofas, etc.). You want to implement a functionality that calculates the shipping cost based on the furniture type and size.
@@ -15,12 +14,10 @@
     <p>
         <em>Note:</em> Implementing separate shipping logic within each furniture class would lead to tight coupling and difficulty adding new furniture types in the future.
     </p>
-
     <h2>Task</h2>
     <p>
         Implement a <strong>visitor design pattern</strong> approach to solve this coupling issue.
     </p>
-
     <h2>Requirements</h2>
     <ul>
         <li>You must show the different elements of the visitor design pattern in your solution.</li>
